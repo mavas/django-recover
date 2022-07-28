@@ -1,5 +1,5 @@
 # django-recover
-A web-based tool to help collaboratively recover your Facebook history after perminently removing the account.
+A web-based tool to help collaboratively recover your Facebook history after permanently removing the account.
 
 ## Limitations
 
